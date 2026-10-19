@@ -1,0 +1,6 @@
+[27-Mar-2026 02:12:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function øheader() in /home/l2am9uh7gxg5/public_html/Remax/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/l2am9uh7gxg5/public_html/Remax/index.php on line 3
+[27-Mar-2026 02:13:29 UTC] PHP Parse error:  syntax error, unexpected identifier "header" in /home/l2am9uh7gxg5/public_html/Remax/index.php on line 2
+[27-Mar-2026 02:13:30 UTC] PHP Parse error:  syntax error, unexpected identifier "header" in /home/l2am9uh7gxg5/public_html/Remax/index.php on line 2
